@@ -1,0 +1,5 @@
+C:\Users\gmist\OneDrive\Bureau\EX_Simpl_EchelleSerpent\EX_Simpl_EchelleSerpent\obj\Debug\netcoreapp3.1\EX_Simpl_EchelleSerpent.csproj.AssemblyReference.cache
+C:\Users\gmist\OneDrive\Bureau\EX_Simpl_EchelleSerpent\EX_Simpl_EchelleSerpent\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\gmist\OneDrive\Bureau\EX_Simpl_EchelleSerpent\EX_Simpl_EchelleSerpent\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\gmist\OneDrive\Bureau\EX_Simpl_EchelleSerpent\EX_Simpl_EchelleSerpent\obj\Debug\netcoreapp3.1\EX_Simpl_EchelleSerpent_MarkupCompile.cache
+C:\Users\gmist\OneDrive\Bureau\EX_Simpl_EchelleSerpent\EX_Simpl_EchelleSerpent\obj\Debug\netcoreapp3.1\EX_Simpl_EchelleSerpent_MarkupCompile.lref
